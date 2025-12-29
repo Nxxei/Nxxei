@@ -1,1 +1,7 @@
-Hey There. Im Ansh Jagwal and I’m a frontend developer with a strong interest in UI development and animations. I have experience with React, JavaScript, and Tailwind CSS, and I’m continuously learning tools like GSAP to build smooth and engaging web interfaces.
+Hi, I'm Ansh Jagwal 👋  
+
+I'm a frontend developer passionate about **UI development** and **animations**. I build smooth, interactive web interfaces using **React**, **JavaScript**, and **Tailwind CSS**.  
+Continuously exploring tools like **GSAP** to bring designs to life.  
+
+🌱 Currently learning advanced animation techniques and React hooks.  
+💻 Always excited to collaborate on creative frontend projects.
