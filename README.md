@@ -1,4 +1,3 @@
 <!---
-Nxxei/Nxxei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I’m a frontend developer with a strong interest in UI development and animations. I have experience with React, JavaScript, and Tailwind CSS, and I’m continuously learning tools like GSAP to build smooth and engaging web interfaces.
 --->
